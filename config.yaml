@@ -1,0 +1,13 @@
+credentials:
+  usernames:
+    taro:
+      name: Test Taro
+      password: taro
+      email: taro@example.com
+    hanako:
+      name: Test Hanako
+      password: hanako
+      email: hanako@example.com
+cookie:
+  key: some_signature_key
+  name: some_cookie_name
